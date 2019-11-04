@@ -53,7 +53,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 2016.06.05.b,05-Jun-16,2016,Unprovoked,USA,Swimming,M,64,Leg bitten,N,08h30,,5942
 2016.06.05.a,05-Jun-16,2016,Unprovoked,AUSTRALIA,Diving,F,60,FATAL,Y,11h30,3+ m shark,5941
 2016.06.04,04-Jun-16,2016,Unprovoked,EGYPT,Swimming,M,23,"Leg severely bitten, surgically amputated",N,Morning,Mako shark,5940
-2016.06.02.b,02-Jun-16,2016,Unprovoked,AUSTRALIA,Spearfishing,M,,"No injury, but sharks repeatedly hit their fins and guns",,,Bronze whaler sharks x 3,5939
+2016.06.02.b,02-Jun-16,2016,Unprovoked,AUSTRALIA,Spearfishing,M,,"No injury, but sharks repeatedly hit their fins and guns",UNKNOWN,,Bronze whaler sharks x 3,5939
 2016.06.02.a,02-Jun-16,2016,Unprovoked,NEW CALEDONIA,Kite surfing,M,,Laceration to heel,N,Afternoon,3 m shark,5938
 2016.05.31,31-May-16,2016,Unprovoked,AUSTRALIA,Surfing,M,29,FATAL,Y,16h00,White shark,5937
 2016.05.29.b,29-May-16,2016,Unprovoked,USA,Swimming,F,52,Injuries to arm and shoulder,N,16h00,,5936
@@ -339,7 +339,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 2014.05.06,06-May-14,2014,Unprovoked,USA,Swimming,F,40,Lacerations to left foot,N,15h00,4' to 5' shark,5655
 2014.05.01,01-May-14,2014,Unprovoked,USA,Surfing,M,23,Laceration to right hand and cuts on fingertips,N,15h00,3' shark,5654
 2014.04.24,24-Apr-14,2014,Unprovoked,AUSTRALIA,Spearfishing,M,,Minor injury,N,,reef shark?,5653
-2014.04.22,22-Apr-14,2014,Unprovoked,USA,Swimming,M ,42,Laceration & puncture wounds to right foot,N,15h30,,5652
+2014.04.22,22-Apr-14,2014,Unprovoked,USA,Swimming,M,42,Laceration & puncture wounds to right foot,N,15h30,,5652
 2014.04.15,15-Apr-14,2014,Unprovoked,USA,Wading,M,25,Minor lacerations to left foot,N,09h57,,5651
 2014.04.12.R,Reported 12-Apr-2014,2014,Boat,SOUTH AFRICA,Shark watching,,,"No injury to occupants, shark bit pontoon",N,,White shark,5650
 2014.04.12,12-Apr-14,2014,Provoked,SOUTH AFRICA,Fishing,M,,Lacerations to leg & hand by hooked shark PROVOKED INCIDENT,N,Morning," Raggedtooth shark, 2m",5649
@@ -1361,7 +1361,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 2005.05.28,28-May-05,2005,Unprovoked,USA,Swimming,M,33,Left foot bitten,N,17h30,"""small shark""",4633
 2005.05.27,27-May-05,2005,Unprovoked,USA,Crouching in 2' of water,F,,Right arm & torso bitten,N,18h30,"18"" to 36"" shark",4632
 2005.05.25,25-May-05,2005,Unprovoked,SOUTH AFRICA,Surfing,M,32,Left buttock  & legs lacerated ,N,11h00,Raggedtooth shark,4631
-2005.05.15,15-May-05,2005,Unprovoked,AUSTRALIA,Spearfishing,M ,,Severe injury to lower leg,N,,Blacktip shark,4630
+2005.05.15,15-May-05,2005,Unprovoked,AUSTRALIA,Spearfishing,M,,Severe injury to lower leg,N,,Blacktip shark,4630
 2005.05.14,14-May-05,2005,Unprovoked,USA,Kayaking,,,"No injury, shark bit kayak",N,11h00,"Tiger shark, 8' to 9' ",4629
 2005.05.03,03-May-05,2005,Unprovoked,MADAGASCAR,Fishing,M,,Thigh bitten,N,,2.5 m shark,4628
 2005.05.02.R,02-May-05,2005,Sea Disaster,USA,Sea Disaster,M,Teens,No injury,N,,,4627
@@ -1398,7 +1398,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 2004.11.27,27-Nov-04,2004,Unprovoked,SOUTH AFRICA,Surfing,M,20,3 lacerations on foot,N,18h00,Raggedtooth shark,4596
 2004.11.26,26-Nov-04,2004,Unprovoked,SOUTH AFRICA,Playing,M,16,Lacerations on lower leg & foot,N,,Raggedtooth shark,4595
 2004.11.15,15-Nov-04,2004,Unprovoked,SOUTH AFRICA,Swimming,F,77,FATAL,Y,07h00,6 m [20'] white shark,4594
-2004.11.11.b,11-Nov-04,2004,Unprovoked,USA,Surfing,lli,38,"Lacerations to hand, knee & thigh ",N,13h30,5.5 m [18'] white shark,4593
+2004.11.11.b,11-Nov-04,2004,Unprovoked,USA,Surfing,0,38,"Lacerations to hand, knee & thigh ",N,13h30,5.5 m [18'] white shark,4593
 2004.11.11.a,11-Nov-04,2004,Unprovoked,VANUATU,Snorkeling,M,30s,Thigh bitten,N,09h00,,4592
 2004.11.00,Nov-04,2004,Unprovoked,NEW CALEDONIA,Diving,,,Forearm bitten,N,,3 m shark,4591
 2004.10.31,31-Oct-04,2004,Unprovoked,CUBA,Diving,M,40,Left forearm bitten,N,14h00,2.5 m [8.25'] bull shark,4590
@@ -1842,7 +1842,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 2000.03.14,14-Mar-00,2000,Unprovoked,AUSTRALIA,Surfing,M,,No Injury,N,19h30,"Tiger shark, 4 m [13'] ?",4152
 2000.03.10,10-Mar-00,2000,Boat,AUSTRALIA,Rowing,,,No Injury to occupants,N,P.M.,2 m to 2.5 m [6.75'  to 8.25'] shark,4151
 2000.03.09,09-Mar-00,2000,Boat,AUSTRALIA,Rowing,,,No injury to occupants; oar bitten,N,,,4150
-2000.03.03.R,Reported      03-Mar-2000,2000,Invalid,NEW ZEALAND,Kayaking,M,27,Reported as shark attack but probable drowning ,,,Shark involvement  questionable,4149
+2000.03.03.R,Reported      03-Mar-2000,2000,Invalid,NEW ZEALAND,Kayaking,M,27,Reported as shark attack but probable drowning ,UNKNOWN,,Shark involvement  questionable,4149
 2000.03.02,02-Mar-00,2000,Unprovoked,AUSTRALIA,Swimming,M,,Survived,N,,,4148
 2000.03.00,Mar-00,2000,Unprovoked,USA,Spearfishing,M,39,"No injury to diver, speargun damaged",N,16h00,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] ",4147
 2000.02.21,21-Feb-00,2000,Unprovoked,USA,,M,27,Right calf bitten,N,Afternoon,,4146
@@ -2447,7 +2447,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1989.08.13,13-Aug-89,1989,Unprovoked,AUSTRALIA,Surfing,M,17,"No injury, shark took chunk out of surfboard",N,06h30,"Bronze whaler shark, 3 m [10'] ",3548
 1989.08.09,09-Aug-89,1989,Unprovoked,BAHAMAS,Spearfishing,F,31,Severe hand and arm injuries; right hand surgically amputated,N,,,3547
 1989.08.06.R,Reported    06-Aug-1989,1989,Provoked,AUSTRALIA,Fishing for sharks,M,41,Laceration to arm  PROVOKED INCIDENT,N,,3.5 m white shark,3546
-1989.07.27,27-Jul-89,1969,Invalid,BERMUDA,Scuba diving,M,35,FATAL,,,Shark involvement suspected but not confirmed,3545
+1989.07.27,27-Jul-89,1969,Invalid,BERMUDA,Scuba diving,M,35,FATAL,UNKNOWN,,Shark involvement suspected but not confirmed,3545
 1989.07.20,20-Jul-89,1989,Unprovoked,SOUTH AFRICA,Surfing,M,34,Torso bitten,N,10h35,2.5 m [8.25'] white shark,3544
 1989.07.19,19-Jul-89,1989,Unprovoked,REUNION,Surfing,M,,FATAL,Y,17h00 Sunset,,3543
 1989.07.14,14-Jul-89,1989,Unprovoked,USA,Surfing,M,16,5-inch gash on left leg,N,Afternoon,,3542
@@ -3273,7 +3273,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1967.10.17,17-Oct-67,1967,Unprovoked,USA,Standing on sandbar,M,19,Left foot bitten,N,16h30,small blacktip shark,2716
 1967.10.00,Oct-67,1967,Unprovoked,TONGA,Swimming,M,17,Arm & leg bitten,N,,,2715
 1967.09.20,20-Sep-67,1967,Invalid,USA,Boat capsized between O'ahu & Molokai,M,,Remains found in a 3.4 m (11') tiger shark. Probable drowning & scavenging,Y,,,2714
-1967.09.13,13-Sep-67,1967,Provoked,ITALY,Scuba diving,M,21,"Diver shot the shark, then it injured his arm and broke his leg with its tail.  PROVOKED INCIDENT",,,2 m shark,2713
+1967.09.13,13-Sep-67,1967,Provoked,ITALY,Scuba diving,M,21,"Diver shot the shark, then it injured his arm and broke his leg with its tail.  PROVOKED INCIDENT",UNKNOWN,,2 m shark,2713
 1967.09.07.b,07-Sep-67,1967,Provoked,PAPUA NEW GUINEA,Diving,,,"No details, listed as PROVOKED INCIDENT",UNKNOWN,,,2712
 1967.09.07.a,07-Sep-67,1967,Unprovoked,USA,Spearfishing,,,Survived,N,14h30,,2711
 1967.09.06,06-Sep-67,1967,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,,FATAL,Y,,,2710
@@ -3708,21 +3708,21 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1961.00.00.b,1961,1961,Unprovoked,SENEGAL,Free diving for molluscs,M,20,FATAL,Y,,> 3 m shark,2280
 1961.00.00.a,1961,1961,Sea Disaster,USA,Light aircraft ditched at sea,,,3 of the 4 passengers killed by sharks,Y,,,2279
 1960.12.27.b,27-Dec-60,1960,Unprovoked,USA,Swept out to sea while net fishing,M,,"FATAL  Shark seen attacking Riley, body recovered off Nanakuli",Y,,,2278
-1960.12.27.a.,27-Dec-60,1960,Unprovoked,AUSTRALIA,,F,27,"Shark brushed past, minor injuries if any", N,,3 m [10'] shark,2277
+1960.12.27.a.,27-Dec-60,1960,Unprovoked,AUSTRALIA,,F,27,"Shark brushed past, minor injuries if any",N,,3 m [10'] shark,2277
 1960.12.24,24-Dec-60,1960,Unprovoked,SOUTH AFRICA,Swimming,M,25,"FATAL, legs severed ",Y,16h30,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark",2276
-1960.12.20,20-Dec-60,1960,Unprovoked,AUSTRALIA,"Fishing, when line became snagged on rock & he dived into water to free it ",M,33,Left thigh lacerated, N,09h00,"Grey nurse shark, 1m ",2275
+1960.12.20,20-Dec-60,1960,Unprovoked,AUSTRALIA,"Fishing, when line became snagged on rock & he dived into water to free it ",M,33,Left thigh lacerated,N,09h00,"Grey nurse shark, 1m ",2275
 1960.12.01,01-Dec-60,1960,Unprovoked,AUSTRALIA,Fishing,M,,Bitten & survived,N,,"Bull shark, 1m ",2274
-1960.11.27,27-Nov-60,1960,Unprovoked,AUSTRALIA,Swimming,M,41,Right shoulder lacerated, N,14h45,3' shark,2273
+1960.11.27,27-Nov-60,1960,Unprovoked,AUSTRALIA,Swimming,M,41,Right shoulder lacerated,N,14h45,3' shark,2273
 1960.11.22,22-Nov-60,1960,Invalid,USA,"Fell overboard, prop slashed arm",F,51,"FATAL, probable drowning & post mortem scavenging",Y,,,2272
-1960.11.11,11-Nov-60,1960,Provoked,AUSTRALIA,Chasing shark out of bathing area while riding on a surf-ski,M,17,"Shark knocked him off surf-ski, he inhaled water & had to be resuscitated PROVOKED INCIDENT", N,15h00,,2271
-1960.11.06,06-Nov-60,1960,Unprovoked,AUSTRALIA,"Spearfishing, speared fish retreated to cave where shark grabbed his arm",M,24,Scratches on right upper arm, N,,"Wobbegong shark, 1.8 m [6'] ",2270
+1960.11.11,11-Nov-60,1960,Provoked,AUSTRALIA,Chasing shark out of bathing area while riding on a surf-ski,M,17,"Shark knocked him off surf-ski, he inhaled water & had to be resuscitated PROVOKED INCIDENT",N,15h00,,2271
+1960.11.06,06-Nov-60,1960,Unprovoked,AUSTRALIA,"Spearfishing, speared fish retreated to cave where shark grabbed his arm",M,24,Scratches on right upper arm,N,,"Wobbegong shark, 1.8 m [6'] ",2270
 1960.11.00.d,Nov-60,1960,Boat,SOUTH AFRICA,Hand lining for shad,,,"No injury to occupants, shark bit 45 cm hole in hull",N,,White shark (tooth fragments recovered from hull of boat),2269
-1960.11.00.c,Nov-60,1960,Provoked,NEW GUINEA,,M,,Left wrist bitten by netted shark placed in bottom of dinghy PROVOKED INCIDENT, N,,"1.4 m [4'6""] blacktip shark",2268
+1960.11.00.c,Nov-60,1960,Provoked,NEW GUINEA,,M,,Left wrist bitten by netted shark placed in bottom of dinghy PROVOKED INCIDENT,N,,"1.4 m [4'6""] blacktip shark",2268
 1960.11.00.b,Nov-60,1960,Unprovoked,PAPUA NEW GUINEA,Fishing,M,,"FATAL, severely bitten genitals & thighs ",Y,,,2267
 1960.10.25,25-Oct-60,1960,Sea Disaster,USA,Ejected from F3H-2 aircraft ,M,36,"No injury, shark hit his foot & circled",N,14h00,,2266
 1960.10.24,24-Oct-60,1960,Boat,SOUTH AFRICA,Fishing for rock lobsters,,,"No injury to occupants, shark rammed & bit  boat",N,,"White shark, 3.7 m to 4.6 m [12' to 15'] ",2265
-1960.10.02,01-Oct-60,1960,Invalid,AUSTRALIA,Fishing,M,24,"Swept off rocks & presumed to have drowned, shark seen in area", N,,Shark involvement not confirmed,2264
-1960.10.00.e,Oct-60,1960,Unprovoked,PAPUA NEW GUINEA,Collecting shells,M,26,Injuries to leg & foot, N,,,2263
+1960.10.02,01-Oct-60,1960,Invalid,AUSTRALIA,Fishing,M,24,"Swept off rocks & presumed to have drowned, shark seen in area",N,,Shark involvement not confirmed,2264
+1960.10.00.e,Oct-60,1960,Unprovoked,PAPUA NEW GUINEA,Collecting shells,M,26,Injuries to leg & foot,N,,,2263
 1960.10.00.d,Oct-60,1960,Sea Disaster,RED SEA / INDIAN OCEAN,Cargo ship El Gamil entroute Suez to Yemen (Aden) when her cargo shifted and she sank. 19 Egyption sailors jumped into the water and swam for several hours before being bitten by sharks,M,,"Sharks attacked sailors in the water, several survivors picked up",Y,,,2262
 1960.10.00.c,Oct-60,1960,Invalid,USA,Diving,M,,"Apparently went missing while diving. Helicopter searching for him spotted school of sharks attacking a ""white object"" 15' below the surface",Y,,,2261
 1960.10.00.b,Oct-60,1960,Boat,SOUTH AFRICA,Fishing,,,"Shark rammed boat, breaching its hull",N,,"White shark, 18 mm tooth fragment  recovered from the hull",2260
@@ -3893,7 +3893,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1959.00.00.c,1959,1959,Unprovoked,PAPUA NEW GUINEA,Fishing,M,,Minor injuries,N,,,2095
 1959.00.00.b,1959,1959,Unprovoked,PAPUA NEW GUINEA,,M,,"FATAL, abdomen & leg bitten ",Y,,,2094
 1959.00.00.a,1959,1959,Provoked,PAPUA NEW GUINEA,Fishing,M,,Penis bitten while trying to drag speared shark to beach PROVOKED INCIDENT,N,,,2093
-1958.12.28,28-Dec-58,1958,Boat,TURKEY,Fishing,,,Boat damaged,,,White shark,2092
+1958.12.28,28-Dec-58,1958,Boat,TURKEY,Fishing,,,Boat damaged,UNKNOWN,,White shark,2092
 1958.12.27,27-Dec-58,1958,Unprovoked,PAPUA NEW GUINEA,,,,Hip bitten,N,,,2091
 1958.12.23,23-Dec-58,1958,Unprovoked,SOUTH AFRICA,Swimming,M,14,FATAL,Y,,,2090
 1958.12.13,13-Dec-58,1958,Unprovoked,USA,Surfing on air mattress,M,15,"FATAL, leg severed  ",Y,13h00,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] ",2089
@@ -4099,12 +4099,12 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1954.08.12.a,12-Aug-54,1954,Provoked,CUBA,Spearfishing,M,,Right thigh & left calf injured by speared shark  PROVOKED INCIDENT,N,,"Nurse shark, 58"", 34-lb ",1889
 1954.07.30,30-Jul-54,1954,Unprovoked,ECUADOR,"Tuna fishing, standing on stern platform that was submerged by waves",M,34,4 lacerations on dorsum of right foot ,N,,,1888
 1954.07.28,28-Jul-54,1954,Unprovoked,SINGAPORE,Closed circuit diving (submerged). Diving to recover jettisoned packets of opium for police,M,28,"FATAL, abdomen, buttock, right thigh & hands bitten ",Y,,,1887
-1954.07.27,27-Jul-54,1954,Boating,ITALY,Fishing trawler Flavio Gioia ,M,,No injury to occupants. Shark tore nets & trawl and struck boat repeatedly,,Night,5m shark,1886
+1954.07.27,27-Jul-54,1954,Boating,ITALY,Fishing trawler Flavio Gioia ,M,,No injury to occupants. Shark tore nets & trawl and struck boat repeatedly,UNKNOWN,Night,5m shark,1886
 1954.07.15,15-Jul-54,1954,Unprovoked,THE BALKANS,Swimming,M,,FATAL,Y,21h00,,1885
 1954.07.04.R,Reported 04-Jul-1954,1954,Unprovoked,USA,,,,Small wound on upper thigh,N,,"Nurse shark, 2.5' ",1884
 1954.07.03,03-Jul-54,1954,Unprovoked,BERMUDA,Swimming,M,22,"Left thigh bitten, chest lacerated  & defense wounds on foot, fingers and hands",N,,"2.4 m [8'] shark, possibly a dusky shark",1883
 1954.07.02.R,Reported 02-Jul-1954,1954,Unprovoked,GREECE,Swimming,M,,FATAL,Y,,,1882
-1954.07.01.R,Reported 01-Jul-1954,1954,Invalid,CROATIA,,,,Human remains found in shark,,,,1881
+1954.07.01.R,Reported 01-Jul-1954,1954,Invalid,CROATIA,,,,Human remains found in shark,UNKNOWN,,,1881
 1954.06.29,29-Jun-54,1954,Provoked,USA,Grabbed shark & threw it on deck,M,35,Right elbow & forearm lacerated  PROVOKED INCIDENT,N,,,1880
 1954.06.27,27-Jun-54,1954,Unprovoked,AUSTRALIA,Pearl diving from lugger Whyalla,M,30,"Shark bit right arm & shoulder, then Aken says, he ""knocked out"" the shark",N,16h30,2.4 m [8']  shark,1879
 1954.06.00,Jun-54,1954,Unprovoked,HONG KONG,Bathing alongside ship,M,,"FATAL, thigh bitten ",Y,,,1878
@@ -4680,7 +4680,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1935.02.14,14-Feb-35,1935,Unprovoked,AUSTRALIA,Surfing (pneumatic surfboard),M,20,"Thigh lacerated, abrasions",N,17h30,,1303
 1935.01.24.b,24-Jan-35,1935,Unprovoked,AUSTRALIA,Fishing,M,,"No injury, sleeve ripped",N,,"Tiger shark, 12' ",1302
 1935.01.24.a,24-Jan-35,1935,Boating,AUSTRALIA,Fishing for sharks,,,No injury to occupants,N,,2 sharks,1301
-1935.01.21.R,Reported 21-Jan-1935,1935,Invalid,ISRAEL,,,,human remains washed ahore,F,,,1300
+1935.01.21.R,Reported 21-Jan-1935,1935,Invalid,ISRAEL,,,,human remains washed ahore,Y,,,1300
 1935.01.17,17-Jan-35,1935,Invalid,AUSTRALIA,,M,5,No injury; onlookers saw shark heading for him and lifted him ashore,N,,10' shark,1299
 1934.12.31.b,31-Dec-34,1934,Unprovoked,AUSTRALIA,Splashing,F,13,Hands severed,N,20h15,"Tiger shark, 1.5 m [5'] ",1298
 1934.12.31.a,31-Dec-34,1934,Unprovoked,AUSTRALIA,Swimming (lead swimmer in race),M,19,"FATAL, left leg bitten ",Y,16h30,,1297
@@ -4695,7 +4695,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1934.08.26,26-Aug-34,1934,Unprovoked,AUSTRALIA,Dived into sea from launch & bitten immediately,M,,"FATAL, body was not recovered",Y,,,1288
 1934.08.21,21-Aug-34,1934,Unprovoked,CROATIA,Swimming,F,18,FATAL,Y,,White shark,1287
 1934.08.05,05-Aug-34,1934,Unprovoked,USA,Swimming,M,11,Lacerations to right leg,N,,,1286
-1934.07.11,11-Jul-34,1934,Boating,AUSTRALIA,Fishing,N,,"No injury to occupants Sharks continually followed the dinghy, and one smashed its rudder ",N,,"Blue pointer, 11' ",1285
+1934.07.11,11-Jul-34,1934,Boating,AUSTRALIA,Fishing,0,,"No injury to occupants Sharks continually followed the dinghy, and one smashed its rudder ",N,,"Blue pointer, 11' ",1285
 1934.06.21,  21-Jun-1934,1934,Provoked,AUSTRALIA,Fishing,M,,Hand bitten while landing shark PROVOKED INCIDENT,N,Night,"A 6.5' ""blue-nosed shark""",1284
 1934.06.20,20-Jun-34,1934,Unprovoked,USA,Standing,M,8,FATAL,Y,,,1283
 1934.04.15,15-Apr-34,1934,Unprovoked,AUSTRALIA,Body surfing,M,34,Leg lacerated & punctured,N,09h30,,1282
@@ -5177,7 +5177,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1909.04.09.R,Reported 09-Apr-1909,1909,Unprovoked,TUNISIA,Diving (Helmet) for sponges,M,,FATAL,Y,,,806
 1909.03.06,06-Mar-09,1909,Sea Disaster,SOUTH AFRICA,Wreck of the 1308-ton Norwegian ship Auckland,F,,FATAL,Y,,,805
 1909.01.00,Jan-09,1909,Invalid,ITALY,"On December 28, 1908, an earthquake, followed by tsunamis, destroyed coastal towns in Silcily and southern Italy, killing more than 100,000 people",,," 3 unidentified bodies recovered (male, female & young girl) from gut of female  4.5 m [14'9""]  white shark caught in fishing net. They may have drowned in tidal wave following earthquake ",Y,,,803
-1909.00.00,1909,1909,Unprovoked,AUSTRALIA,,,,Survived,N ,,,802
+1909.00.00,1909,1909,Unprovoked,AUSTRALIA,,,,Survived,N,,,802
 1908.12.31,31-Dec-08,1908,Unprovoked,SOUTH AFRICA,Swimming,M,16,FATAL,Y,,,801
 1908.12.16.R,Reported 16-Dec-1908,1908,Unprovoked,MEXICO,Swimming ashore from capsized boat,M,,"FATAL, ""bitten in two""",Y,,,800
 1908.09.21,   21-Sep-1908,1908,Unprovoked,AUSTRALIA,Fell from the jetty,M,,FATAL,Y,,Remains recovered from 3 sharks,799
@@ -5187,7 +5187,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1908.07.08.R,Reported 08-Jul-1908,1908,Unprovoked,CROATIA,Boating,F,,"FATAL, lost a leg",Y,,"Species unknown, possible white shark",795
 1908.06.18,18-Jun-08,1908,Unprovoked,EGYPT,The 168-ton Belmore foundered in heavy seas,M,,FATAL,Y,,,794
 1908.06.08,08-Jun-08,1908,Sea Disaster,USA,The British steamer Caribbee foundered,M,,FATAL,Y,,,793
-1908.06.02.R,Reported 02-Jun-1908,1908,Sea Disaster,PAPUA NEW GUINEA,.,.,,"Remains of 3 humans recovered from shark, but shark involvement prior to death unconfirmed",Y,,Allegedly a 33-foot shark,792
+1908.06.02.R,Reported 02-Jun-1908,1908,Sea Disaster,PAPUA NEW GUINEA,.,0,,"Remains of 3 humans recovered from shark, but shark involvement prior to death unconfirmed",Y,,Allegedly a 33-foot shark,792
 1908.05.13,13-May-08,1908,Sea Disaster,INDONESIA,native boats sunk in storm,,F,FATAL,Y,,,791
 1908.05.10,10-May-08,1908,Invalid,USA,,M,,"FATAL, but shark involvement prior to death was not confirmed",Y,,,790
 1908.01.08,08-Jan-08,1908,Unprovoked,USA,Gathering fish stunned by dynamite,M,,"FATAL, ""pulled below the surface'  ",Y,,,789
@@ -5293,7 +5293,7 @@ Case Number,Date,Year,Type,Country,Activity,Sex ,Age,Injury,Fatal (Y/N),Time,Spe
 1901.10.00,Mid Oct-1901,1901,Unprovoked,PHILIPPINES,Taking catch from a fish weir in which the shark was snared,M,,Right thigh bitten ,N,,,689
 1901.09.23.R,Reported 23-Sep-1901,1901,Unprovoked,CYPRUS,Swimming,M,Teen,"FATAL, bitten on arms, chest & legs",Y,,2 m shark,688
 1901.07.30,30-Jul-01,1901,Unprovoked,SOUTH AFRICA,Swimming,M,29,"Right leg bitten & foot severed, right arm bitten, bones fractured & nearly severed FATAL",Y,14h15,White shark,687
-1901.07.17,17-Jul-01,1901,Invalid,ITALY,Swimming,M,20,"Disappeared, but shark involvement unconfirmed",,,,686
+1901.07.17,17-Jul-01,1901,Invalid,ITALY,Swimming,M,20,"Disappeared, but shark involvement unconfirmed",UNKNOWN,,,686
 1901.06.29.R,Reported 29-Jun-1901,1901,Invalid,YEMEN ,Diving around anchored liner,M,,,UNKNOWN,,,685
 1901.06.24,24-Jun-01,1901,Unprovoked,PHILIPPINES,Swimming,M,,"Left thigh stripped of flesh 4"" above the knee ",N,15h00,,684
 1901.01.30,30-Jan-01,1901,Unprovoked,AUSTRALIA,Bathing,M,,"Thigh bitten, FATAL",Y,,,683
